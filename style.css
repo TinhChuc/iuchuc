@@ -20,7 +20,7 @@ canvas {
 }
 
 .content {
-    top: 350px;
+    top: 50%;
     position: relative;
     color: pink;
     display: flex;
